@@ -66,7 +66,7 @@ const uid=uuid.v4()
           <Text
             style={{ color: myColors.third, fontSize: 24, fontWeight: "500" }}
           >
-            Sign Up
+            Cadastre-se
           </Text>
           <Text
             style={{
